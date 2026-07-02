@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
