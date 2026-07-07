@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0704-binary-search](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1470-shuffle-the-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
