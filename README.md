@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 ## Two Pointers
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
