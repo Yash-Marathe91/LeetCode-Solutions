@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -135,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
