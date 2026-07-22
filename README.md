@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0078-subsets) |
 ## String Matching
 |  |
