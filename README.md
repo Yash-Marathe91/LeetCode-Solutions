@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Stack
 |  |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
