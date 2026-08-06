@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0384-shuffle-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
