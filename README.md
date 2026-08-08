@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0384-shuffle-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -257,17 +261,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
