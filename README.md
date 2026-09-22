@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2262-total-appeal-of-a-string](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2262-total-appeal-of-a-string](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [2262-total-appeal-of-a-string](https://github.com/Yash-Marathe91/LeetCode-Solutions/tree/master/2262-total-appeal-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
